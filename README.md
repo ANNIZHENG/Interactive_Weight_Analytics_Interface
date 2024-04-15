@@ -1,4 +1,4 @@
-# Car_Accident_Classifier
+# Car Accident Classifier
 
 ## Data Source
 **GitHub Page**: https://github.com/Cogito2012/CarCrashDataset
