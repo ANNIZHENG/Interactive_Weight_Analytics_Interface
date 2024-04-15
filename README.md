@@ -1,6 +1,10 @@
 # Car_Accident_Classifier
-Data Source: https://github.com/Cogito2012/CarCrashDataset, https://drive.google.com/drive/folders/1Rx4LCo-9AbAdPw5Zh7wpKhMKLabZ5oA8
 
+## Data Source
+**GitHub Page**: https://github.com/Cogito2012/CarCrashDataset
+**Google Drive**: https://drive.google.com/drive/folders/1Rx4LCo-9AbAdPw5Zh7wpKhMKLabZ5oA8
+
+## Directory Tree
 ```
 .
 ├── Split.ipynb  # Code for splitting videos into frames
