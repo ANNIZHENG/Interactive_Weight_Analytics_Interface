@@ -16,10 +16,9 @@
 ## Plan for now
 Transformer
 <ol>
-  <li>OpenCV/FFmpeg for dividing videos into frames - treat each frame as an element in the sequence</li>
+  <li>Done: OpenCV/FFmpeg for dividing videos into frames - treat each frame as an element in the sequence</li>
+  <li>Done: Use a CNN to extract features from each frame (video-frame data are still very high dimensional)</li>
+  <li>Feed the sequences of frames into Video Transformer</li>
+  <li>Modifications of the attention mechanisms</li>
+  <li>Design the complexity of the videos (depth, width, attention)</li>
 </ol>
-1) 
-2) Use a CNN to extract features from each frame (video-frame data are still very high dimensional)
-3) Feed the sequences of frames into Video Transformer
-4) Modifications of the attention mechanisms
-5) Design the complexity of the videos (depth, width, attention)
