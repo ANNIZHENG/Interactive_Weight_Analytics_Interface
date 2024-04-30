@@ -9,9 +9,8 @@
 ## Directory Tree
 ```
 .
-├── Crash-1500.txt  # info data of 1500 car crash videos
-├── Split.ipynb  # Code for splitting videos into frames
-├── VideoVisionTransformer.ipynb  # ViVT model for video prediction
+├── Split.ipynb                            # Code for splitting videos into frames
+├── VideoVisionTransformer.ipynb           # ViVT model for video prediction
 ├── 3001 Visualization final project.ipynb # Code for extracting video frames and corresponding feature maps in CNN
 └── README.md
 ```
