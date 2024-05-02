@@ -18,7 +18,7 @@
 
 ## DEMO:
 
-[![Demonstartion Video]](demo.mov)
+[View Demonstartion Video Here](demo.mov)
 
 
 ## Related Work: 
