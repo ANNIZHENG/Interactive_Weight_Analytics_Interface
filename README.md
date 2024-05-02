@@ -12,7 +12,7 @@
 ├── Split.ipynb                  # Code for splitting videos into frames
 ├── VideoVisionTransformer.ipynb # ViVT model and demo of interactive weight visualization interface
 ├── int_weight_vis.py            # Interactive weight visualization interface package
-├── InteractiveWeightAnalysisPre # Presentation video of our interface (Demo included)
+├── demo.mov                     # Demonstration of int_weight_vis.py
 └── README.md
 ```
 
