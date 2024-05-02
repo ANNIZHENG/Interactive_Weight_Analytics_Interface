@@ -24,3 +24,30 @@ Transformer
   <li>Modifications of the attention mechanisms</li>
   <li>Design the complexity of the videos (depth, width, attention)</li>
 </ol>
+
+**Introduction**
+
+Why is it important? 
+
+- Customizable (sorting mechanism)
+- Inspired by analytics tools like SHAP, we provide an analytics tools for demonstrating feature importance
+- Interactive tools for sorting 
+- Interactive tools for analyzing weights over epochs in video vision transformer model.
+
+What challenges have inhibited previous works from solving it? 
+
+How did you address this problem through data visualization (e.g. "Our main contributions will be...")? 
+
+
+**Related Works**
+
+Situate your research question within the field of data visualization/machine learning. How have previous works addressed this problem, or ones similar to it? 
+
+How have these previous works fallen short (i.e. what gaps exist in related research)?
+
+
+**Background**
+
+This section should describe your dataset.
+
+It should also describe your design goals for your visualizations (what types of insights you hope the user will be able to get from your design)
