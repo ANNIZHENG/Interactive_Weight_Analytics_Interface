@@ -20,6 +20,8 @@
 
 [View Demonstartion Video Here](demo.mov)
 
+<img src="demo1.png" width="200" height="166">
+<img src="demo2.png" width="200" height="166">
 
 ## Related Work: 
 
